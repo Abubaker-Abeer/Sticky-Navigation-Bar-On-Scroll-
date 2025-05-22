@@ -5,7 +5,7 @@ A simple web project that features a sticky navigation bar that remains visible 
 
 ## 🔗 Live Demo
 
-👉 [View on Netlify](https://joyful-kheer-d1ef5a.netlify.app/)
+👉 [View on Netlify](https://effortless-snickerdoodle-b463ab.netlify.app/)
 
 
 ## 🛠️ Built With
